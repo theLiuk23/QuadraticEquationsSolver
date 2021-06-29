@@ -1,5 +1,5 @@
 # QuadraticEquationsSolver
-It solves quadratic equations by providing 2 solutions, by drawing a parabola in cartesian axes. There is also some customizable settings and print features. Download the setup file at www.lucadallavilla.altervista.org
+It solves quadratic equations by providing 2 solutions, by drawing a parabola in cartesian axes. There is also some customizable settings and print features.
 
 If you want a setup file please visit my site (https://lucadallavilla.altervista.org/) and open the article called "Equazioni di secondo grado? Ez!", thank you!
 
